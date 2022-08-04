@@ -1,4 +1,4 @@
-### Olá! sou o Sebastian Travolta
+### Olá!! sou o Sebastian Travolta
 
 - 🔭  ...
 - 👨‍💻 Estudando Tecnologia em analise e desenvolvimento de sistemas
